@@ -1,0 +1,4 @@
+[core]
+    remote = gril_storage
+['remote "gril_storage"']
+    url = /home/riya/Data/GRIL/Gril_Storage/
